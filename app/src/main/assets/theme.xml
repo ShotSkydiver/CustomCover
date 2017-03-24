@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+	<themename>Default</themename>
+	<themebackground>default_bg.png</themebackground>
+	<hasoverlay>false</hasoverlay>
+	<hasmask>false</hasmask>
+	
+	<albumartsize>1190</albumartsize>
+	<leftpadding>120</leftpadding>
+	<toppadding>860</toppadding>
+	
+</theme>
+	

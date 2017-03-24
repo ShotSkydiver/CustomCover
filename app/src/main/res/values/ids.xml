@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="controls_header" />
+    <item type="id" name="buttons_expanded" />
+    <item type="id" name="song_title" />
+    <item type="id" name="album_preview" />
+</resources>

@@ -1,0 +1,4 @@
+int attr font 0x7f010000
+int string app_name 0x7f020000
+int[] styleable TextView { 0x7f010000 }
+int styleable TextView_font 0

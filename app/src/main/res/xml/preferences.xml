@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@style/PreferenceScreen" >
+
+    <ListPreference
+        android:title="Theme:"
+        android:summary="Choose a theme for the album art."
+        android:key="theme"
+        android:defaultValue="Simple" />
+    <CheckBoxPreference
+        android:title="Colorize from Artwork"
+        android:summary="Use colors from the album art to style the lockscreen."
+        android:defaultValue="true" />
+    <EditTextPreference
+        android:key="theme_bg"
+        android:defaultValue="overlay.png"
+        android:title="Theme bg" />
+    <Preference
+        android:key="hasoverlay"
+        android:defaultValue="FALSE" />
+    <EditTextPreference
+        android:key="theme_overlay"
+        android:defaultValue="null" />
+    <Preference
+        android:key="hasmask"
+        android:defaultValue="FALSE" />
+    <EditTextPreference
+        android:key="theme_mask"
+        android:defaultValue="null" />
+    <EditTextPreference
+        android:key="artsize"
+        android:defaultValue="1190" />
+    <EditTextPreference
+        android:key="left_padding"
+        android:defaultValue="120" />
+    <EditTextPreference
+        android:key="top_padding"
+        android:defaultValue="860" />
+
+</PreferenceScreen>
