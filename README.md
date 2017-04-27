@@ -1,8 +1,7 @@
 # CustomCover
 ### *An Xposed module that modifies the Android lockscreen when playing music*
 <br/>
-<img width="420" align="left" src="http://i.imgur.com/gXu57TF.png" />
-<img width="420" align="right" src="http://i.imgur.com/z24DaRe.jpg" />
+<img width="420" align="left" src="http://i.imgur.com/gXu57TF.png" /><img width="420" align="right" src="http://i.imgur.com/z24DaRe.jpg" />
 
 CustomCover is an Xposed module, inspired by a jailbreak tweak for iOS called CustomCover, that I've always loved. It completely overhauls the Android lockscreen, specifically when playing music. I’ve made it so the album art displays in the center (with an iOS-style look to it), and it can also be themed. The tweak also pulls the prominent colors from the album art of whatever’s playing, and changes the other lockscreen elements to those colors. The end result is an elegant-looking, functional, and fun lockscreen.
 
